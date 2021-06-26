@@ -780,7 +780,8 @@ body {
         .fast-start__body .column-fast__value-color {
           display: none; }
   .today {
-    margin-bottom: 50px; }
+    padding-bottom: 50px; 
+    margin-bottom: 0px;}
     .today__header {
       margin-bottom: 10px; }
     .today__body {
@@ -803,14 +804,16 @@ body {
       .top__body-item:last-child {
         border-bottom: none; }
   .study {
-    margin-bottom: 50px; }
+    padding-bottom: 50px;
+    margin-bottom: 0px;}
     .study__header .title__icon {
       margin-top: 10px;
       margin-bottom: 20px; }
     .study__header .title__text {
       margin: 10px auto 40px; }
   .teacher {
-    margin-bottom: 30px; }
+    padding-bottom: 30px; 
+    margin-bottom: 0px;}
     .teacher__header {
       margin-bottom: 20px; }
     .teacher__body {
@@ -855,7 +858,8 @@ body {
       .fast-start__body .column-fast {
         flex: 0 1 100%; }
   .today {
-    margin-bottom: 30px; }
+    padding-bottom: 30px;
+    margin-bottom: 0px;}
     .today__body-column {
       margin-top: -15px; }
   .top__header {
