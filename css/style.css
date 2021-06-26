@@ -201,6 +201,7 @@ body {
       padding: 0 30px; } }
 
 .footer {
+  background-color: black;
   text-align: center;
   padding: 30px 0; }
   .footer p {
@@ -518,6 +519,7 @@ body {
       left: -60px; }
 
 .teacher {
+  background-color: black;
   margin-bottom: 200px; }
   .teacher__header {
     margin-bottom: 80px; }
@@ -786,7 +788,7 @@ body {
         .fast-start__body .column-fast__value-color {
           display: none; }
   .today {
-    margin-bottom: 50px; }
+    padding-bottom: 50px; }
     .today__header {
       margin-bottom: 10px; }
     .today__body {
@@ -816,7 +818,7 @@ body {
     .study__header .title__text {
       margin: 10px auto 40px; }
   .teacher {
-    margin-bottom: 30px; }
+    padding-bottom: 30px; }
     .teacher__header {
       margin-bottom: 20px; }
     .teacher__body {
