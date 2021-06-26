@@ -179,6 +179,7 @@ body {
   font-family: "Roboto Regular";
   font-weight: 400;
   color: white;
+  background: black;
   background: url(../img/bg.png) repeat; }
   body.lock {
     overflow: hidden; }
@@ -296,6 +297,7 @@ body {
   width: 100%;
   min-height: 100vh;
   background: url(../img/start-bg.jpg) no-repeat;
+  background-size: cover;
   color: white; }
   .start__container {
     height: calc(100vh - 130px); }
