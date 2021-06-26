@@ -175,7 +175,7 @@
     line-height: 29px;
     max-width: 230px; }
 section {
-  background-color: black;
+  background: black;
   background: url(../img/bg.png) repeat;
 }
 
@@ -203,7 +203,7 @@ body {
 
 .footer {
   background-color: black;
-  background: url(../img/bg.png) repeat;
+  //background: url(../img/bg.png) repeat;
   text-align: center;
   padding: 30px 0; }
   .footer p {
@@ -521,7 +521,7 @@ body {
       left: -60px; }
 
 .teacher {
-  background-color: black;
+  background: black;
   background: url(../img/bg.png) repeat;
   margin-bottom: 200px; }
   .teacher__header {
